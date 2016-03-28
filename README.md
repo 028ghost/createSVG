@@ -1,6 +1,6 @@
 # JS createSVG
 ##1.调用JS
-在\</body>里加入\<script src="js/createSVG.js"></script>
+* 在\</body>里加入\<script src="js/createSVG.js"></script>
 ##2.接口
 ```javascript
     createSVG({
