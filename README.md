@@ -1,6 +1,6 @@
 # JS createSVG
 #### [预览地址](http://codepen.io/ghost028/pen/qZjpRL)
-![createSVG-DEMO](psd.jpg)
+![createSVG-DEMO](../psd.jpg)
 ###1.调用JS
 * 在\</body>里加入\<script src="js/createSVG.js"></script>
 
