@@ -1,6 +1,6 @@
 # JS createSVG
 1.调用方式
-*在</body>里加入
+*在\</body>里加入
 
 ```javascript
   var ihubo = {
