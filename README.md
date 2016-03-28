@@ -1,6 +1,6 @@
 # JS createSVG
 #### [预览地址](http://codepen.io/ghost028/pen/qZjpRL)
-![createSVG-DEMO](../../psd.jpg)
+![createSVG-DEMO](../../psb.jpg)
 ###1.调用JS
 * 在\</body>里加入\<script src="js/createSVG.js"></script>
 
@@ -27,3 +27,6 @@
         fontWeight:true,     //字体是否加粗，true或false
     });
 ```
+###4.作者
+* Ghost
+* QQ：200581882
