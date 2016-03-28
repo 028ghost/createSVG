@@ -2,10 +2,10 @@
 #### [预览地址](http://codepen.io/ghost028/pen/qZjpRL)
 ![createSVG-DEMO](psb.jpg)
 ###1.调用JS
-* 在\</body>里加入\<script src="js/createSVG.js"></script>
+> 在\</body>里加入\<script src="js/createSVG.js"></script>
 
 ###2.HTML
-* \<div id="box1"></div>
+> \<div id="box1"></div>
 
 ###3.接口
 * *号为必填项
