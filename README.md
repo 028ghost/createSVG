@@ -1,4 +1,5 @@
 # JS createSVG
+#### [预览地址](http://codepen.io/ghost028/pen/qZjpRL)
 ###1.调用JS
 * 在\</body>里加入\<script src="js/createSVG.js"></script>
 
@@ -6,6 +7,7 @@
 * \<div id="box1"></div>
 
 ###3.接口
+* *号为必填项
 ```javascript
     createSVG({
         id: document.getElementById('box1'),    //*父层ID
